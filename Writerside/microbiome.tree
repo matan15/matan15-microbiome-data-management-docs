@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="microbiome"
+                 name="Help Instance"
+                 start-page="microbiome-data-instructions.md">
+
+    <toc-element topic="microbiome-data-instructions.md">
+        <toc-element topic="installing-requirements.md"/>
+        <toc-element topic="authenticating.md">
+        </toc-element>
+        <toc-element topic="getting-data.md"/>
+        <toc-element topic="Data-Structure.md"/>
+        <toc-element topic="More-information.md"/>
+        <toc-element topic="Contact-me.md"/>
+    </toc-element>
+</instance-profile>
