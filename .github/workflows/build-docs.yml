@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'Writeside/microbiome-data-instructions'
+  INSTANCE: '../Writeside/microbiome-data-instructions'
   ARTIFACT: 'webHelpHI2-all.zip'
   DOCKER_VERSION: '233.14389'
 
