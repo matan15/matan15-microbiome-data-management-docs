@@ -1,6 +1,6 @@
 # Getting Data
 
-In order to get data, you need to use the `db` variable that you used at the last section (`Authenticating`):
+In order to get data, you need to use the `db` variable that you used at the last section ([Authenticating](https://matan15.github.io/microbiome-data-management-docs/authenticating.html)):
 
 ```Python
 docs = db.collection("microbiome").stream()
