@@ -11,3 +11,5 @@ The `docs` variable is a generator object, so, you need to iterate it with for l
 for doc in docs:
     print(f"{doc.id} => {doc.to_dict()}")
 ```
+
+Note: document with no coordinates, the field `Coordination` won't appear in the document. The rest of the fields that will be empty, their values will be `None`.
