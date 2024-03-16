@@ -12,8 +12,10 @@ from google.cloud import firestore
 
 ###########################################
 
+# Creating credentials object
 credentials = service_account.Credentials.from_service_account_info(creds_from_json)
 
+# Connecting to the database
 db = firestore.Client(
     project=creds_from_json["project_id"],
     credentials=credentials,

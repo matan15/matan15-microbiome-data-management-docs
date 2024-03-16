@@ -11,8 +11,9 @@
         <toc-element topic="authenticating.md">
         </toc-element>
         <toc-element topic="getting-data.md"/>
+        <toc-element topic="Get-Filtered-Data.md"/>
         <toc-element topic="Data-Structure.md"/>
-        <toc-element topic="More-information.md"/>
+        toc-element topic="More-information.md"/>
         <toc-element topic="Contact-me.md"/>
     </toc-element>
 </instance-profile>
