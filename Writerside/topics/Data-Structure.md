@@ -2,6 +2,7 @@
 
 | field name            | 	Description                                                                                                                                           |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| id                    | Id of the Fungi / Bacteria.                                                                                                                            |
 | Class                 | 	The taxonomy of life is a system that classifies life into domains, kingdoms, phyla, **classes**, orders, families, genera, and species.              |
 | Coordination          | 	The Coordinates where the plant was sampled, the coordinates will be in this format: {"lon": longitude (float), "lat": latitude (float)}              |
 | Date                  | 	Date when the plant was sampled (MM/DD/YYYY)                                                                                                          |
